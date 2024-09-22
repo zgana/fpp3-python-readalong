@@ -1,0 +1,17 @@
+rdatasets
+
+numpy
+pandas<1.1
+pmdarima
+scipy
+sklearn
+statsmodels
+tsfresh
+xlrd
+
+matplotlib
+seaborn
+tqdm
+
+ipywidgets
+jupyterlab
