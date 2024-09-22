@@ -19,3 +19,5 @@ In the meantime, I've occasionally been asked how the code can be run, or [where
 3. Set up a venv: `uv venv --python 3.8`
 4. Install the dependencies: `uv pip install -r requirements.txt`
 5. Run Jupyter: `.venv/bin/jupyter-lab`
+
+Note: while I checked that the updated notebooks pass the smell test, I did not check them in detail for correctness.  If you discover a problem or mistake, please [file an issue](https://github.com/zgana/fpp3-python-readalong/issues/new/choose).
