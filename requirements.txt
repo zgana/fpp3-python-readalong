@@ -91,7 +91,7 @@ locket==0.2.0
     # via partd
 markupsafe==1.1.1
     # via jinja2
-matplotlib==3.3.0
+matplotlib==3.2.2
     # via
     #   -r requirements.in
     #   seaborn
@@ -149,8 +149,6 @@ pexpect==4.8.0
     # via ipython
 pickleshare==0.7.5
     # via ipython
-pillow==7.2.0
-    # via matplotlib
 pmdarima==1.6.1
     # via -r requirements.in
 prometheus-client==0.8.0

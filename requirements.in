@@ -9,7 +9,7 @@ statsmodels
 tsfresh
 xlrd
 
-matplotlib
+matplotlib<3.3
 seaborn
 tqdm
 
